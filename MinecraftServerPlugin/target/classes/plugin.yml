@@ -1,0 +1,5 @@
+name: Pluginforserver
+version: '1.0-SNAPSHOT'
+main: pluginforserver.pluginforserver.Pluginforserver
+api-version: 1.19
+

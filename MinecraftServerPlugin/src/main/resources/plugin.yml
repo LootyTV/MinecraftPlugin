@@ -1,0 +1,5 @@
+name: Pluginforserver
+version: '${project.version}'
+main: pluginforserver.pluginforserver.Pluginforserver
+api-version: 1.19
+
